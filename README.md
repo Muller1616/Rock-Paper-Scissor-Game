@@ -1,7 +1,8 @@
-  Rock-Paper-Scissors Game
+**Rock-Paper-Scissors Game**
+  <br>
   <br>
 🎯 Project Overview
-<be>
+<br>
 -This is a simple Rock-Paper-Scissors game implemented in HTML, CSS, and JS. 
 <br>
 -The game allows users to play against the computer in a fun and interactive way.
@@ -9,13 +10,10 @@
 <br>
 ✨ Features
 <br><br>
--User-friendly interface.
-<br>
--Real-time feedback on game results.\
-<br>
--Randomized computer choices to ensure fair gameplay.
-<br>
-Keeps track of user and computer scores.
+-User-friendly interface.<br>
+-Real-time feedback on game results.<br>
+-Randomized computer choices to ensure fair gameplay.<br>
+-Keeps track of user and computer scores.
 <br>
 <br>
 
@@ -28,7 +26,7 @@ Keeps track of user and computer scores.
         -Scissors beats Paper. <br>
         -Paper beats Rock. <br> <br>
         
-🛠️ Technologies Used <br>
+🛠️ Technologies Used <br> <br>
      -HTML: for structure the and organize the page <br>
      -CSS: for styling the html page <br>
      -JS: for interactive and functionalities <br>
