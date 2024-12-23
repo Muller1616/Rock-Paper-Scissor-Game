@@ -1,0 +1,51 @@
+body{
+    font-family:Arial, sans-serif;
+    font-weight:bold;
+    margin:0;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:rgba(8, 7, 7, 0.311);
+}
+h1{
+    font-size:3.5rem;
+    color:hsl(253, 96%, 49%)
+}
+.choices{
+    margin-bottom:30px;
+
+}
+.choices button{
+    font-size:7.5rem;
+    min-width:160px;
+    margin: 0 10px;
+    background-color:hsl(141, 91%, 52%);
+    border-radius:50%;
+    cursor:pointer;
+    transition: background-color 0.5s ease;
+
+}
+.choices button:hover{
+    background-color:hsl(155, 74%, 64%);
+}
+#playerDisplay, #computerDisplay{
+    font-size:2.5rem;
+
+}
+#resultDisplay{
+    font-size:5rem;
+    margin: 30px 0px;
+}
+
+.scoreDisplay{
+    font-size:2rem;
+}
+.greenText, #playerScoreDisplay{
+    color:rgb(17, 223, 17);
+}
+.redText, #computerScoreDisplay{
+    color:#f80707;
+}
+#computerScoreDisplay{
+    color:#02b7ff;
+}
