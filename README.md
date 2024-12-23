@@ -26,13 +26,11 @@ Keeps track of user and computer scores.
 4.Results will be displayed based on these rules: <br>
         -Rock beats Scissors. <br>
         -Scissors beats Paper. <br>
-        -Paper beats Rock. <br>
-
-        <br>
-        <br>
-🛠️ Technologies Used
-     -HTML: for structure the and organize the page
-     -CSS: for styling the html page
-     -JS: for interactive and functionalities
+        -Paper beats Rock. <br> <br>
+        
+🛠️ Technologies Used <br>
+     -HTML: for structure the and organize the page <br>
+     -CSS: for styling the html page <br>
+     -JS: for interactive and functionalities <br>
         
 
