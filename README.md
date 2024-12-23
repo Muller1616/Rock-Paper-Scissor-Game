@@ -19,7 +19,7 @@ Keeps track of user and computer scores.
 <br>
 <br>
 
-🕹️ How to Play
+🕹️ How to Play<br><br>
 1.Launch the game. <br>
 2.Choose one of the options: Rock, Paper, or Scissors. <br>
 3.The computer will randomly pick its choice. <br>
